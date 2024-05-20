@@ -3,7 +3,7 @@ export default defineNuxtConfig({
     app: {
         // head
         head: {
-            title: '爱盼-网盘资源搜索',
+            title: '小超-网盘资源搜索',
             meta: [
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
                 {
